@@ -1,8 +1,8 @@
 # Tailwind CSS With SvelteKit
 
-✍️ https://joyofcode.xyz/sveltekit-tailwind-setup
+✍️ https://joyofcode.xyz/sveltekit-with-tailwind-css
 
-Set up Tailwind CSS with SvelteKit and automatic class sorting with Prettier.
+Set up Tailwind CSS and automatic class sorting with SvelteKit.
 
 ## 💿️ Development
 
