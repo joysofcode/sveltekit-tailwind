@@ -1,4 +1,4 @@
-# Tailwind CSS With SvelteKit
+# SvelteKit With Tailwind CSS
 
 ✍️ https://joyofcode.xyz/sveltekit-with-tailwind-css
 
